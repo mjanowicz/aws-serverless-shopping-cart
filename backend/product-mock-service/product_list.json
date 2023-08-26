@@ -12,7 +12,7 @@
       "width": 905
     },
     "pictures": ["http://placehold.it/32x32"],
-    "price": 716,
+    "price": 1000,
     "productId": "4c1fadaa-213a-4ea8-aa32-58c217604eaa",
     "tags": ["saeco", "nivona", "super"]
   },
@@ -372,5 +372,39 @@
     "price": 996,
     "productId": "aa91060a-3601-4cb8-a2cc-025d09c7a9b7",
     "tags": ["qui", "dolore", "culpa", "est", "duis"]
+  },
+  {
+    "category": "Test",
+    "createdDate": "2017-05-14T03:39:21 -02:00",
+    "description": "Nowy produkt w naszej ofercie - sprawdź koniecnzie.",
+    "modifiedDate": "2019-11-24T02:23:27 -01:00",
+    "name": "elektronika",
+    "package": {
+      "height": 328,
+      "length": 7,
+      "weight": 439,
+      "width": 747
+    },
+    "pictures": ["http://placehold.it/32x32"],
+    "price": 100,
+    "productId": "aa91060a-3601-4cb8-a2wc-025d09c7a9b7",
+    "tags": ["samsung", "alle", "culpa", "est", "duis"]
+  },
+  {
+    "category": "Test 2",
+    "createdDate": "2017-05-14T03:39:21 -02:00",
+    "description": "Nowy produkt w naszej ofercie - sprawdź koniecnzie.",
+    "modifiedDate": "2019-11-24T02:23:27 -01:00",
+    "name": "elektronika",
+    "package": {
+      "height": 328,
+      "length": 7,
+      "weight": 439,
+      "width": 747
+    },
+    "pictures": ["http://placehold.it/32x32"],
+    "price": 200,
+    "productId": "aa91060a-3601-4cb8-a23c-025d09c7a9b7",
+    "tags": ["samsung", "apple", "sony", "est", "duis"]
   }
 ]
